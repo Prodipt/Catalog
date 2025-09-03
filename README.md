@@ -1,2 +1,2 @@
 # Catalog
-Solution of Problem statement
+Solution of the Polynomial Problem statement in Cpp language
